@@ -144,6 +144,4 @@ If you want to deploy this function on AWS Lambda, follow these steps:
 - Implement real-time data fetching using scheduled Lambda invocations.
 - Explore integration with AWS services like S3 and CloudWatch for enhanced data storage and monitoring.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
